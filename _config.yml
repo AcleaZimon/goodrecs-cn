@@ -102,5 +102,5 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/AcleaZimon/GoodRecs-CN.git
+  repo: https://github.com/AcleaZimon/goodrecs-cn.git
   branch: pages
