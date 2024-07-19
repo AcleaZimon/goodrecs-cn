@@ -189,6 +189,14 @@ navbar:
     Home: 
       path: /
       icon: fa-regular fa-house # can be empty
+    Submission:
+      path: https://github.com/AcleaZimon/goodrecs-cn/issues
+      icon: fa-solid fa-signs-post
+    Languages: 
+      icon: fa-solid fa-language
+      submenus:
+        English: https://goodrecs.org
+        简体中文: /
       
     # Archives: 
     #   path: /archives 
